@@ -100,8 +100,9 @@ $out = array(
 	'liste'   => $liste,
 	'det'     => (object) $neu,
 );
-// Nur schreiben, wenn sich am Inhalt etwas geändert hat (sonst entsteht kein Commit).
-if ( is_array( $alt ) ) {
+// Nur schreiben, wenn sich am Inhalt etwas geändert hat oder der Stand von gestern ist
+// (einmal am Tag ein frischer Stand, damit die Homepage sieht, dass der Abruf läuft).
+if ( is_array( $alt ) && isset( $alt['stand'] ) && gmdate( 'Y-m-d', (int) $alt['stand'] ) === gmdate( 'Y-m-d' ) ) {
 	$a = $alt;
 	$b = json_decode( json_encode( $out ), true );
 	unset( $a['stand'], $b['stand'] );
