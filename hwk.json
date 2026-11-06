@@ -1,0 +1,500 @@
+{
+    "stand": 1793974353,
+    "plz": "34302",
+    "umkreis": 25,
+    "quelle": "https://hwk-kassel.odav.de/43,50,jpguestsearch.html",
+    "liste": [
+        {
+            "nr": "7050",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Metallbauer (m/w/d) - Konstruktionstechnik",
+            "firma": "Michael Brede",
+            "ab": "2027-08-01",
+            "plz": "34289",
+            "ort": "Zierenberg"
+        },
+        {
+            "nr": "7049",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Karosserie- und Fahrzeugbaumechaniker (m/w/d) - Karosserie- und Fahrzeugbautechnik",
+            "firma": "FES Innovations GmbH",
+            "ab": "2027-08-02",
+            "plz": "34260",
+            "ort": "Kaufungen"
+        },
+        {
+            "nr": "7047",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik (m/w/d)",
+            "firma": "Reuse Haustechnik GmbH Aus Liebe zum Haus & Mensch.",
+            "ab": "2026-10-01",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "7046",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Kraftfahrzeugmechatroniker (m/w/d) - Nutzfahrzeugtechnik (2x)",
+            "firma": "TRUCK Vertriebs- und Service GmbH",
+            "ab": "2027-08-02",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "7041",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Maler und Lackierer (m/w/d) - Gestaltung und Instandhaltung",
+            "firma": "Maler Bischoff GmbH",
+            "ab": "2027-08-02",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "7012",
+            "typ": "FOS Praktika",
+            "beruf": "Fachpraktiker für Kfz-Mechatronik (m/w/d)",
+            "firma": "Autohaus Bibbig GmbH",
+            "ab": "",
+            "plz": "34246",
+            "ort": "Vellmar"
+        },
+        {
+            "nr": "7011",
+            "typ": "FOS Praktika",
+            "beruf": "Fachpraktiker für Elektronik (m/w/d)",
+            "firma": "Autohaus Bibbig GmbH",
+            "ab": "",
+            "plz": "34246",
+            "ort": "Vellmar"
+        },
+        {
+            "nr": "7010",
+            "typ": "FOS Praktika",
+            "beruf": "Fachkraft für Lagerlogistik (m/w/d)",
+            "firma": "Autohaus Bibbig GmbH",
+            "ab": "",
+            "plz": "34246",
+            "ort": "Vellmar"
+        },
+        {
+            "nr": "6986",
+            "typ": "Schulpraktika",
+            "beruf": "Fachverkäufer im Lebensmittelhandwerk (m/w/d) - Konditorei (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6985",
+            "typ": "Schulpraktika",
+            "beruf": "Konditor (m/w/d) (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6984",
+            "typ": "Schulpraktika",
+            "beruf": "Bäcker (m/w/d) (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6983",
+            "typ": "Schulpraktika",
+            "beruf": "Tischler (m/w/d) (2x)",
+            "firma": "Günther Innenausbau GmbH & Co. KG",
+            "ab": "",
+            "plz": "34302",
+            "ort": "Guxhagen"
+        },
+        {
+            "nr": "6967",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Metallbauer (m/w/d)",
+            "firma": "FES Innovations GmbH",
+            "ab": "2027-08-02",
+            "plz": "34260",
+            "ort": "Kaufungen"
+        },
+        {
+            "nr": "6965",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Informationselektroniker (m/w/d) - Brandschutz- und Gefahrenmeldeanlagen",
+            "firma": "Stock GmbH Schwachstromtechnik",
+            "ab": "2027-09-01",
+            "plz": "34286",
+            "ort": "Spangenberg"
+        },
+        {
+            "nr": "6949",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Dachdecker (m/w/d)",
+            "firma": "Bärwald & Zinn GmbH",
+            "ab": "2027-08-01",
+            "plz": "34233",
+            "ort": "Fuldatal"
+        },
+        {
+            "nr": "6935",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Technischer Systemplaner (m/w/d) - Stahl- und Metallbautechnik",
+            "firma": "Michael Brede",
+            "ab": "2027-08-01",
+            "plz": "34289",
+            "ort": "Zierenberg"
+        },
+        {
+            "nr": "6912",
+            "typ": "FOS Praktika",
+            "beruf": "Fachverkäufer im Lebensmittelhandwerk (m/w/d) - Konditorei (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6911",
+            "typ": "FOS Praktika",
+            "beruf": "Konditor (m/w/d) (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6910",
+            "typ": "FOS Praktika",
+            "beruf": "Bäcker (m/w/d) (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6909",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Fachverkäufer im Lebensmittelhandwerk (m/w/d) - Konditorei (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6908",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Konditor (m/w/d) (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6907",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Bäcker (m/w/d) (2x)",
+            "firma": "Matthias Streiter e. K. Bäckerei, Konditorei, Cafe",
+            "ab": "",
+            "plz": "34125",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6906",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Metallbauer (m/w/d) - Konstruktionstechnik (2x)",
+            "firma": "C. W. Dallwig Nachf. Grimm GmbH",
+            "ab": "2025-08-01",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6855",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Metallbauer (m/w/d) - Konstruktionstechnik",
+            "firma": "Möller Metallbau GmbH",
+            "ab": "2027-08-01",
+            "plz": "34286",
+            "ort": "Spangenberg"
+        },
+        {
+            "nr": "6853",
+            "typ": "FOS Praktika",
+            "beruf": "Zimmerer (m/w/d)",
+            "firma": "Wilhelm Mette GmbH Zimmererbetrieb",
+            "ab": "",
+            "plz": "34308",
+            "ort": "Bad Emstal"
+        },
+        {
+            "nr": "6806",
+            "typ": "FOS Praktika",
+            "beruf": "Kaufmann für Büromanagement (m/w/d) (3x)",
+            "firma": "Pi-TeG GmbH",
+            "ab": "",
+            "plz": "34587",
+            "ort": "Felsberg"
+        },
+        {
+            "nr": "6805",
+            "typ": "Ferienpraktika",
+            "beruf": "Kaufmann für Büromanagement (m/w/d) (3x)",
+            "firma": "Pi-TeG GmbH",
+            "ab": "",
+            "plz": "34587",
+            "ort": "Felsberg"
+        },
+        {
+            "nr": "6763",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Elektroniker (m/w/d) - Energie- und Gebäudetechnik (2x)",
+            "firma": "Landwehr + Schultz EDV u. Sicherheitstechnik GmbH",
+            "ab": "2027-07-01",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6758",
+            "typ": "Schulpraktika",
+            "beruf": "Kaufmann für Büromanagement (m/w/d) (3x)",
+            "firma": "Pi-TeG GmbH",
+            "ab": "",
+            "plz": "34587",
+            "ort": "Felsberg"
+        },
+        {
+            "nr": "6757",
+            "typ": "Schulpraktika",
+            "beruf": "Elektroniker (m/w/d) - Energie- und Gebäudetechnik (3x)",
+            "firma": "Pi-TeG GmbH",
+            "ab": "",
+            "plz": "34587",
+            "ort": "Felsberg"
+        },
+        {
+            "nr": "6737",
+            "typ": "Schulpraktika",
+            "beruf": "Elektroniker (m/w/d) - Energie- und Gebäudetechnik (2x)",
+            "firma": "Elektro-Bretscher-GmbH",
+            "ab": "",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6736",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Elektroniker (m/w/d) - Energie- und Gebäudetechnik (2x)",
+            "firma": "Elektro-Bretscher-GmbH",
+            "ab": "2027-08-02",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6719",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Technischer Systemplaner (m/w/d) - Versorgungs- und Ausrüstungstechnik",
+            "firma": "Gebr. Becker Energie- und Versorgungstechnik GmbH & Co. KG",
+            "ab": "2027-08-02",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "6718",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Anlagenmechaniker für Sanitär-, Heizungs- und Klimatechnik (m/w/d) - Heizungstechnik (2x)",
+            "firma": "Gebr. Becker Energie- und Versorgungstechnik GmbH & Co. KG",
+            "ab": "2027-08-02",
+            "plz": "34123",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "4437",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Tiefbaufacharbeiter (m/w/d) (4x)",
+            "firma": "Fritz Franke GmbH & Co. KG Tief- und Straßenbau",
+            "ab": "2027-08-09",
+            "plz": "34326",
+            "ort": "Morschen"
+        }
+    ],
+    "det": {
+        "7050": {
+            "a": "hs",
+            "p": 0,
+            "g": 830
+        },
+        "7049": {
+            "a": "hs",
+            "p": 0,
+            "g": 724
+        },
+        "7047": {
+            "a": "hs",
+            "p": 0,
+            "g": 1008
+        },
+        "7046": {
+            "a": "hs",
+            "p": 0,
+            "g": 1152
+        },
+        "7041": {
+            "a": "hs",
+            "p": 0,
+            "g": 900
+        },
+        "7012": {
+            "a": "egal",
+            "p": 0,
+            "g": 0
+        },
+        "7011": {
+            "a": "egal",
+            "p": 0,
+            "g": 0
+        },
+        "7010": {
+            "a": "egal",
+            "p": 0,
+            "g": 0
+        },
+        "6986": {
+            "a": "egal",
+            "p": 1,
+            "g": 0
+        },
+        "6985": {
+            "a": "egal",
+            "p": 0,
+            "g": 0
+        },
+        "6984": {
+            "a": "egal",
+            "p": 1,
+            "g": 0
+        },
+        "6983": {
+            "a": "rs",
+            "p": 0,
+            "g": 0
+        },
+        "6967": {
+            "a": "hs",
+            "p": 0,
+            "g": 724
+        },
+        "6965": {
+            "a": "rs",
+            "p": 0,
+            "g": 930
+        },
+        "6949": {
+            "a": "egal",
+            "p": 0,
+            "g": 900
+        },
+        "6935": {
+            "a": "hs",
+            "p": 0,
+            "g": 800
+        },
+        "6912": {
+            "a": "hs",
+            "p": 1,
+            "g": 0
+        },
+        "6911": {
+            "a": "hs",
+            "p": 1,
+            "g": 0
+        },
+        "6910": {
+            "a": "hs",
+            "p": 0,
+            "g": 0
+        },
+        "6909": {
+            "a": "hs",
+            "p": 1,
+            "g": 1070
+        },
+        "6908": {
+            "a": "rs",
+            "p": 1,
+            "g": 1070
+        },
+        "6907": {
+            "a": "hs",
+            "p": 1,
+            "g": 1070
+        },
+        "6906": {
+            "a": "hs",
+            "p": 0,
+            "g": 0
+        },
+        "6855": {
+            "a": "hs",
+            "p": 0,
+            "g": 724
+        },
+        "6853": {
+            "a": "rs",
+            "p": 0,
+            "g": 0
+        },
+        "6806": {
+            "a": "rs",
+            "p": 0,
+            "g": 0
+        },
+        "6805": {
+            "a": "rs",
+            "p": 0,
+            "g": 0
+        },
+        "6763": {
+            "a": "hs",
+            "p": 0,
+            "g": 930
+        },
+        "6758": {
+            "a": "rs",
+            "p": 0,
+            "g": 0
+        },
+        "6757": {
+            "a": "rs",
+            "p": 0,
+            "g": 0
+        },
+        "6737": {
+            "a": "egal",
+            "p": 0,
+            "g": 0
+        },
+        "6736": {
+            "a": "egal",
+            "p": 0,
+            "g": 930
+        },
+        "6719": {
+            "a": "fh",
+            "p": 0,
+            "g": 1140
+        },
+        "6718": {
+            "a": "rs",
+            "p": 0,
+            "g": 1140
+        },
+        "4437": {
+            "a": "hs",
+            "p": 0,
+            "g": 1122
+        }
+    }
+}
