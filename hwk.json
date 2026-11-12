@@ -1,9 +1,27 @@
 {
-    "stand": 1794398375,
+    "stand": 1794488399,
     "plz": "34302",
     "umkreis": 25,
     "quelle": "https://hwk-kassel.odav.de/43,50,jpguestsearch.html",
     "liste": [
+        {
+            "nr": "7053",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Elektroniker (m/w/d) - Energie- und Gebäudetechnik (4x)",
+            "firma": "Elektro Brückmann GmbH",
+            "ab": "2027-08-01",
+            "plz": "34117",
+            "ort": "Kassel"
+        },
+        {
+            "nr": "7052",
+            "typ": "Ausbildungsstelle",
+            "beruf": "Kraftfahrzeugmechatroniker (m/w/d) - Nutzfahrzeugtechnik",
+            "firma": "Albert Regel GmbH",
+            "ab": "2027-08-01",
+            "plz": "34225",
+            "ort": "Baunatal"
+        },
         {
             "nr": "7050",
             "typ": "Ausbildungsstelle",
@@ -321,6 +339,16 @@
         }
     ],
     "det": {
+        "7053": {
+            "a": "hs",
+            "p": 0,
+            "g": 930
+        },
+        "7052": {
+            "a": "rs",
+            "p": 0,
+            "g": 764
+        },
         "7050": {
             "a": "hs",
             "p": 0,
